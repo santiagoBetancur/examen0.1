@@ -1,0 +1,28 @@
+C:\Users\mecho\source\repos\examen0.1\bin\Debug\examen0.1.exe.config
+C:\Users\mecho\source\repos\examen0.1\bin\Debug\examen0.1.exe
+C:\Users\mecho\source\repos\examen0.1\bin\Debug\examen0.1.pdb
+C:\Users\mecho\source\repos\examen0.1\bin\Debug\examen0.1.xml
+C:\Users\mecho\source\repos\examen0.1\obj\Debug\examen0.1.vbprojAssemblyReference.cache
+C:\Users\mecho\source\repos\examen0.1\obj\Debug\examen0._1.inicio.resources
+C:\Users\mecho\source\repos\examen0.1\obj\Debug\examen0._1.Resources.resources
+C:\Users\mecho\source\repos\examen0.1\obj\Debug\examen0.1.vbproj.GenerateResource.cache
+C:\Users\mecho\source\repos\examen0.1\obj\Debug\examen0.1.exe
+C:\Users\mecho\source\repos\examen0.1\obj\Debug\examen0.1.xml
+C:\Users\mecho\source\repos\examen0.1\obj\Debug\examen0.1.pdb
+C:\Users\mecho\source\repos\examen0.1\obj\Debug\examen0._1.menuform.resources
+C:\Users\mecho\source\repos\examen0.1\obj\Debug\examen0._1.excel.resources
+C:\Users\mecho\source\repos\examen0.1\obj\Debug\examen0._1.access.resources
+C:\Users\mecho\OneDrive\programcion 3\examen0.1\bin\Debug\examen0.1.exe.config
+C:\Users\mecho\OneDrive\programcion 3\examen0.1\bin\Debug\examen0.1.exe
+C:\Users\mecho\OneDrive\programcion 3\examen0.1\bin\Debug\examen0.1.pdb
+C:\Users\mecho\OneDrive\programcion 3\examen0.1\bin\Debug\examen0.1.xml
+C:\Users\mecho\OneDrive\programcion 3\examen0.1\obj\Debug\examen0.1.vbprojAssemblyReference.cache
+C:\Users\mecho\OneDrive\programcion 3\examen0.1\obj\Debug\examen0._1.access.resources
+C:\Users\mecho\OneDrive\programcion 3\examen0.1\obj\Debug\examen0._1.excel.resources
+C:\Users\mecho\OneDrive\programcion 3\examen0.1\obj\Debug\examen0._1.inicio.resources
+C:\Users\mecho\OneDrive\programcion 3\examen0.1\obj\Debug\examen0._1.menuform.resources
+C:\Users\mecho\OneDrive\programcion 3\examen0.1\obj\Debug\examen0._1.Resources.resources
+C:\Users\mecho\OneDrive\programcion 3\examen0.1\obj\Debug\examen0.1.vbproj.GenerateResource.cache
+C:\Users\mecho\OneDrive\programcion 3\examen0.1\obj\Debug\examen0.1.exe
+C:\Users\mecho\OneDrive\programcion 3\examen0.1\obj\Debug\examen0.1.xml
+C:\Users\mecho\OneDrive\programcion 3\examen0.1\obj\Debug\examen0.1.pdb
